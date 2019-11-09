@@ -94,6 +94,7 @@
 * [inVision Studio](https://www.invisionapp.com/studio): Rapid prototyping, animation, built-in design systems, and collaboration.
 * [Canva](http://canva.com): Amazingly simple graphic design software.
 * [Framer X](https://framer.com/): Interaction Design and UX design software.
+* [Balsamiq](https://balsamiq.com/): A low -fidelity wireframing tool to aid in UX/UI development.
 
 ## Prototype Tools
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
@@ -110,6 +111,7 @@
 * [Springboard](https://www.springboard.com): Personalized approach, designed to help you achieve your goals and advance your career.
 * [Learn Sketch](https://www.sketchapp.com/learn/): Short videos and compiled invaluable resources to help you get started!
 * [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users. 
+* [W3Schools](https://www.w3schools.com/): Basic introductions to different web languages including HTML, CSS, PHP, Bootstrap, etc.
 
 ## Books
 * [Web design playground](https://www.manning.com/books/web-design-playground/): A step by step guide from writing your first line of HTML to creating interesting, attractive web pages.
